@@ -1,5 +1,3 @@
-'use strict';
-
 import './index.css';
 import {apiSettings, validationSettings} from "../utils/const.js"; /** Настройки */
 import {Card} from "../components/Card.js";
